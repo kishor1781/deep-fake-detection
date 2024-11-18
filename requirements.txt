@@ -1,0 +1,6 @@
+numpy
+pandas
+opencv-python
+tensorflow==2.10.0  # Adjust the version based on your system’s CUDA compatibility
+scikit-learn
+matplotlib
